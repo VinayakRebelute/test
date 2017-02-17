@@ -1,0 +1,82 @@
+[
+ 
+ {
+ "Question" : "jhdfhjhjaskf jfshsjflskfh ",
+ "Answer":["STANDARD","ADVANCE","BUSINESS","ULTIMATE"],
+ "Prise":["450","850","1500","2500"],
+ "PerItem":["Per Website","Per Website","Per Website","Per Website"],
+ "content":[["5 PAGES","HTML/ CMS BASED","2 DESIGN TEMPLATES","SEO FRIENDLY","RESPONSIVE DESIGN","SERVER INSTALLATION"],["15 PAGES","HTML/ CMS / PHP","5 DESIGN TEMPLATES","SEO FRIENDLY","RESPONSIVE DESIGN","SERVER INSTALLATION"],["25 PAGES","CUSTOM CMS BASED","8 DESIGN TEMPLATES","SEO FRIENDLY","RESPONSIVE DESIGN","SERVER INSTALLATION"],["52 PAGES","ASP. NET/PHP/ CUSTOM CMS","12 DESIGN TEMPLATES","SEO FRIENDLY","RESPONSIVE DESIGN","SERVER INSTALLATION"]
+            ],
+ "image":[["FivePages.png","HTML.png","TwoDesign.png","SEOFriendly.png","ResponsiveDesign.png","SeverTool.png"],["FivePages.png","HTML.png","TwoDesign.png","SEOFriendly.png","ResponsiveDesign.png","SeverTool.png"],["FivePages.png","HTML.png","TwoDesign.png","SEOFriendly.png","ResponsiveDesign.png","SeverTool.png"],["FivePages.png","HTML.png","TwoDesign.png","SEOFriendly.png","ResponsiveDesign.png","SeverTool.png"]
+          ]
+ 
+ },
+ 
+ 
+ {
+ "Question" : "jhdfhjhjaskf jfshsjflskfh ",
+ "Answer":["STANDARD","ADVANCE","BUSINESS","ULTIMATE"],
+ "Buttons":["BASIC","STANDARD","GOLD","PLATINUM"],
+ "Prise":["800","1550","2500","4500"],
+ "PerItem":["Per App","Per App","Per App","Per App"],
+ 
+ "content":[["Basic slide pages-10","Social Media Integration","Audio Integration","Maps and Integration","Image Gallery"],["Followed By Basic Plan","GPS Based Services","Video Integration"],["Followed By Standard Plan","Push Notification","Shopping Cart"],["Followed By Standard Plan","QR Code Scanner","Payment Gateway Integration","Blog Integration"]
+            ],
+ 
+ "image":[["BasicSlidePage.png","SocialMedia.png","AudioIntegration.png","MapandIntegration.png","ImageGallery.png"],["ForwardByStanderd.png","GPSbasedServices.png","VideoIntegration.png"],["ForwardByStanderd.png","PushNotification.png","ShoppingCart.png"],["ForwardByStanderd.png","QRCodeScanner.png","PaymentGetway.png","BlogIntegration.png"]         ]
+ 
+ },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ "Question" : "jhdfhjhjaskf jfshsjflskfh ",
+ "Answer":["STANDARD","ADVANCED","BUSINESS"],
+ "Prise":["800","1550","2500"],
+ "PerItem":["Start From","Start From","Start From"],
+
+ "content":[["Keywords 10","Meta, Header and Title Tag - 10 pages","Search Engine Submissions 10","Social Bookmarking 15","Directory Submissions 10","Article Submissions 1","Press Release Distribution 1","Forum Commenting 5","Commenting on Blog Sites 5","Social Impact - Facebook, Twitter, LinkedIn,Pinterest, YouTube","Google Analytics Reports","Keyword Ranking Reports","Email, Chat and Phone Support"],["Keywords 20","Meta, Header and Title Tag - 20 pages","Search Engine Submissions 20","Social Bookmarking 25","Directory Submissions 20","Article Submissions 2","Press Release Distribution 2","Forum Commenting 10","Commenting on Blog Sites 10","Social Impact - Facebook, Twitter, LinkedIn,Pinterest, YouTube","Google Analytics Reports","Keyword Ranking Reports","Email, Chat and Phone Support"],["Keywords 40","Meta, Header and Title Tag - 40 pages","Search Engine Submissions 30","Social Bookmarking 50","Directory Submissions 30","Article Submissions 4","Press Release Distribution 4","Forum Commenting 20","Commenting on Blog Sites 20","Social Impact - Facebook, Twitter, LinkedIn,Pinterest, YouTube","Google Analytics Reports","Keyword Ranking Reports","Email, Chat and Phone Support"]],
+ "image":[["Keywords.png","MetaHeader.png","SearchEngine.png","SocialBookmarking.png","DirectorySub.png","Articalsub.png","PressRelese.png","FourmCommenting.png","ComentingBlog.png","Socialimpact.png","GoogleAnalytics.png","KeywordRank.png","EmailChat.png"],["Keywords.png","MetaHeader.png","SearchEngine.png","SocialBookmarking.png","DirectorySub.png","Articalsub.png","PressRelese.png","FourmCommenting.png","ComentingBlog.png","Socialimpact.png","GoogleAnalytics.png","KeywordRank.png","EmailChat.png"],["Keywords.png","MetaHeader.png","SearchEngine.png","SocialBookmarking.png","DirectorySub.png","Articalsub.png","PressRelese.png","FourmCommenting.png","ComentingBlog.png","Socialimpact.png","GoogleAnalytics.png","KeywordRank.png","EmailChat.png"]]
+ 
+ 
+ },
+ {
+ "Question" : "jhdfhjhjaskf jfshsjflskfh ",
+ "Answer":["CUSTOM RESOURCEsSDDadasdASDasdasds","joadhiajhdiu iahdijahdi aduihaijdh adhaidh aohdaiuhfihdiuhuiahduiahd auhdhaiudhau hdioadhuOHDIOADHAIHDOIADHIAJODHAIOH"],
+ "PerItem":["Start From"],
+
+ "Prise":["399"],
+ "content":[["opt for SEO services","ecommerce customizations","Mobile and tablet design","quick turnaround time","Social Media integration","Live chat"]],
+ "image":[["OptForSeoService.png","EcommerceCustomization.png","MobileAndTablet.png","QuickTurnAroundTime.png","SocialMedia.png","LiveChat.png"]]
+ 
+ 
+ },
+ {
+ "Question" : "jhdfhjhjaskf jfshsjflskfh ASFSFASFSDFASDFSFSDFSDAF F SDFASDFA FASF AFSFAS FA",
+ "Answer":["HOURLY QUOTE"],
+ "PerItem":["Per Hour"],
+
+ "Prise":["20"],
+ "content":[["Number of resources","Hours required","Experience level","Role based resources"]    ],
+ "image":[["NumberOfResourceRequired.png","Hoursrequired.png","ExpLevel.png","RoleBasedResource.png"]]
+ 
+ },
+ 
+ {
+ "Question" : "jhdfhjhjaskf jfshsjflskfh ",
+ "Answer":["MONTHLY QUOTE"],
+ "PerItem":["Per Month"],
+
+ "Prise":["2500"],
+ "content":[["Number of resources","Experience level","Role based resources"]],
+ "image":[["NumberOfResourceRequired.png","ExpLevel.png","RoleBasedResource.png"]]
+ 
+ }
+ 
+ 
+ 
+ ]

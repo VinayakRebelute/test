@@ -1,0 +1,6 @@
+framework module Pods_Simple_iBeacon_app {
+  umbrella header "Pods-Simple iBeacon app-umbrella.h"
+
+  export *
+  module * { export * }
+}
